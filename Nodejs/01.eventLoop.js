@@ -28,3 +28,15 @@ console.log('queue.shift : ', q)
 
 console.log('queue after : ', queue)
 
+// Call Stack
+function foo(b){
+  let a = 10
+  return a + b 
+}
+
+function bar(x){
+  let y = 2
+  return foo(x+y)
+}
+
+console.log(bar(1))
