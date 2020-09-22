@@ -4,7 +4,7 @@
 
 ### 3. [find, includes](https://github.com/vullro/Til/blob/master/Nodejs/03.findAndIncludes.md)
 
-### 4. forEach
+### 4. [forEach](https://github.com/vullro/Til/blob/master/Nodejs/04.forEach.js)
 
 ### 5. Map, Filter
 
