@@ -2,7 +2,7 @@
 
 ### 2. [every](https://github.com/vullro/Til/blob/master/Nodejs/02.every.md)
 
-### 3. find, includes
+### 3. [find, includes](https://github.com/vullro/Til/blob/master/Nodejs/03.findAndIncludes.md)
 
 ### 4. forEach
 
