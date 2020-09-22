@@ -40,3 +40,21 @@ function bar(x){
 }
 
 console.log(bar(1))
+
+// Event Queue
+function test1(){
+  console.log('test1')
+  test2()
+}
+function test2(){
+  let time = setTimeout(function(){
+    console.log('test2')
+    }, 0)
+    test3()
+}
+
+function test3(){
+  console.log('test3')
+}
+
+test1() 
